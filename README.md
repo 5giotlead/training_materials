@@ -1,1 +1,1 @@
-# training_materials
+# Training Materials
